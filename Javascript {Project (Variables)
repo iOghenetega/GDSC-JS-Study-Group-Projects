@@ -1,6 +1,6 @@
-let name = 'tega'
-let age = 19
-let adult = true
+let name = 'tega';
+let age = 19; // I'm not 19 btw
+let adult = true;
 if( age < 18){
   console.log ('you are not an adult')
 } else{
