@@ -1,8 +1,8 @@
-let name = 'tega';
-let age = 19; // I'm not 19 btw
-let adult = true;
+let name = 'tega'; //create variable with to a strung data type 
+let age = 19; // I'm not 19 btw //create another variable age and assign it a value of an integer
+let adult = true; /create a variable named adult and assign it to the data type boolean with a value of true if the value of age is greater than 18
 if( age < 18){
-  console.log ('you are not an adult')
+  console.log ('you are not an adult') //use an if statement to check if the value of age is greater than or less than 18
 } else{
-  console.log ('you are an adult')
+  console.log ('you are an adult') //if the value of age is less than 18, execute this line.
 }
